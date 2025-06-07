@@ -6,7 +6,7 @@ package agendatelefonica_main;
 
 /**
  *
- * @author davidvalencia
+ * 
  */
 public class Agenda {
     
